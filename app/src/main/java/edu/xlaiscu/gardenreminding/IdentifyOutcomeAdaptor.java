@@ -22,7 +22,7 @@ public class IdentifyOutcomeAdaptor extends CursorAdapter{
     public IdentifyOutcomeAdaptor(Context context, Cursor cursor, int flags) {
         super(context, cursor, flags);
     }
-
+//update
     @Override
     public View newView(Context context, Cursor cursor, ViewGroup parent) {
         return LayoutInflater.from(context).inflate(R.layout.outcome_namecard_layout, parent, false);

@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/GardenReminding.iml" filepath="$PROJECT_DIR$/GardenReminding.iml" />
-      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/garden_reminder_identification.iml" filepath="$PROJECT_DIR$/garden_reminder_identification.iml" />
     </modules>
   </component>
 </project>
